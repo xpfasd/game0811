@@ -1,0 +1,179 @@
+{"frames": {
+
+"AssetBackBtn instance 10000":
+{
+	"frame": {"x":948,"y":1110,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetBackBtn instance 10001":
+{
+	"frame": {"x":1050,"y":1110,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetBackBtn instance 10002":
+{
+	"frame": {"x":1050,"y":1110,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetBackBtn instance 10003":
+{
+	"frame": {"x":1050,"y":1110,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetBg06 instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":1365,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1365,"h":768},
+	"sourceSize": {"w":1365,"h":768}
+},
+"AssetBg07 instance 10000":
+{
+	"frame": {"x":0,"y":770,"w":946,"h":721},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":946,"h":721},
+	"sourceSize": {"w":946,"h":721}
+},
+"AssetButtonType2 instance 10000":
+{
+	"frame": {"x":948,"y":770,"w":396,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":92},
+	"sourceSize": {"w":396,"h":92}
+},
+"AssetButtonType2 instance 10001":
+{
+	"frame": {"x":948,"y":864,"w":396,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":92},
+	"sourceSize": {"w":396,"h":92}
+},
+"AssetButtonType2 instance 10002":
+{
+	"frame": {"x":948,"y":864,"w":396,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":92},
+	"sourceSize": {"w":396,"h":92}
+},
+"AssetButtonType2 instance 10003":
+{
+	"frame": {"x":948,"y":864,"w":396,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":92},
+	"sourceSize": {"w":396,"h":92}
+},
+"AssetClockIcon instance 10000":
+{
+	"frame": {"x":1050,"y":1212,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"AssetDoneIcon instance 10000":
+{
+	"frame": {"x":948,"y":958,"w":260,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":74},
+	"sourceSize": {"w":260,"h":74}
+},
+"AssetDoneIcon instance 10001":
+{
+	"frame": {"x":948,"y":1034,"w":260,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":74},
+	"sourceSize": {"w":260,"h":74}
+},
+"AssetSettingsSmallBtn instance 10000":
+{
+	"frame": {"x":1152,"y":1202,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetSettingsSmallBtn instance 10001":
+{
+	"frame": {"x":948,"y":1212,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetSettingsSmallBtn instance 10002":
+{
+	"frame": {"x":948,"y":1212,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetSettingsSmallBtn instance 10003":
+{
+	"frame": {"x":948,"y":1212,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"AssetSmallSettingsBtn instance 10000":
+{
+	"frame": {"x":1210,"y":958,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"AssetSmallSettingsBtn instance 10001":
+{
+	"frame": {"x":1210,"y":1080,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"AssetSmallSettingsBtn instance 10002":
+{
+	"frame": {"x":1210,"y":1080,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"AssetSmallSettingsBtn instance 10003":
+{
+	"frame": {"x":1210,"y":1080,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.2.1.95",
+	"image": "atlas_01.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

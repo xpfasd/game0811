@@ -1,0 +1,73 @@
+{
+  "languages": ["en", "ru", "uk"],
+  "languages_name":
+  {
+      "en": "English",
+      "ru": "Русский",
+      "uk": "Українська"
+  },
+  "translates":
+  {
+    "play":
+    {
+      "en":"Play",
+      "ru":"Играть",
+      "uk":"Грати"
+    },
+    "developed:":
+    {
+      "en":"developed:",
+      "ru":"разработана:",
+      "uk":"зроблено:"
+    },
+    "Tasks":
+    {
+      "en":"Amount Tasks",
+      "ru":"Количесво Заданий",
+      "uk":"Кількість Завдань"
+    },
+    "Numbers":
+    {
+      "en":"Range of Numbers",
+      "ru":"Диапазон Чисел",
+      "uk":"Діапазон Чисел"
+    },
+    "Amount Operrations":
+    {
+      "en":"Amount Operations",
+      "ru":"Количесво Действий",
+      "uk":"Кількість Дій"
+    },
+    "Operations":
+    {
+      "en":"Math Operations",
+      "ru":"Арифметические Действия",
+      "uk":"Арифметичні Дії"
+    },
+    "SELECT ANSWER":
+    {
+      "en":"SELECT ANSWER",
+      "ru":"ВЫБЕРИ ОТВЕТ",
+      "uk":"ОБЕРИ ВІДПОВІДЬ"
+    },
+    "CURRENT":
+    {
+      "en":"CURRENT",
+      "ru":"СЕЙЧАС",
+      "uk":"СЕЙЧАС"
+    },
+    "GOAL":
+    {
+      "en":"GOAL:",
+      "ru":"ЦЕЛЬ:",
+      "uk":"ЦIЛЬ:"
+    },
+    "Score:":
+    {
+      "en":"Score:",
+      "ru":"Балы:",
+      "uk":"Бали:"
+    }
+
+  }
+}
